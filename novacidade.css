@@ -1,0 +1,36 @@
+ody {
+    background-color: rgb(17,199,111);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ 
+header {
+    text-align: center;
+    text-decoration: underline;
+}
+ 
+div {
+    margin: 0 auto;
+    text-align: center;
+    border: rgb(66,109,255);
+    background-color: whitesmoke;
+    width: 500px;
+    height: 800px;
+    border-radius: 30px;
+}
+ 
+button{
+    background-color: rgb(43, 194, 88);
+    border-radius: 30px;
+    height: 30px;
+    border: none;
+   
+}
+ 
+li {
+    background-color: rgb(66,109,255);
+    height: 100px;
+    width: 450px;
+    border-radius: 10px;
+    box-shadow: 10px;
+    color: white;
+}
